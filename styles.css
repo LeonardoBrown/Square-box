@@ -1,0 +1,18 @@
+#title {
+    text-align: center;
+    color: blue;
+}
+#square {
+    text-align: center;
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+    border: solid;
+
+}
+
+#Change-ColorDiv {
+    margin: auto;
+    text-align: center;
+
+}
